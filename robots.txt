@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://parkerrobbins.github.io/parkerrobbins-website/sitemap.xml
+Sitemap: https://parkerrobbins.github.io/parkerrobbins-website//sitemap.xml
