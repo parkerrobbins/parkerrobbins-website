@@ -21,6 +21,8 @@ I am a third-year PhD student in the Department of Linguistics at the University
 
 Among other things, I'm interested in formal, experimental, and formal computational approaches to morphosyntax. I am particularly interested in case and agreement, the nominal domain, and (comparative) Germanic morphosyntax &mdash; especially the morphosyntax of Yiddish, which I am currently learning. 
 
-Here's my [CV](../assets/parker_robbins_cv.pdf)! Looking for my slides from the 56th Algonquian Conference? They're right [here](../assets/parker_robbins_ac56_slides.pdf)!
+Here's my [CV](../assets/parker_robbins_cv.pdf)! 
+
+Looking for my slides from the 56th Algonquian Conference? They're right [here](../assets/parker_robbins_ac56_slides.pdf)!
 
 (This website is a work in progress. More content coming soon!)
