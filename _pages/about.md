@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a second-year PhD student in the Department of Linguistics at the University of Chicago.
+I am a third-year PhD student in the Department of Linguistics at the University of Chicago.
 
 Among other things, I'm interested in formal, experimental, and formal computational approaches to morphosyntax. I am particularly interested in case and agreement, the nominal domain, and (comparative) Germanic morphosyntax &mdash; especially the morphosyntax of Yiddish, which I am currently learning. 
 
